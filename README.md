@@ -7,7 +7,7 @@ I'm a passionate web3 researcher, I love to learn about web3 development and hav
 
 ### Contact me if you want to work on something cool together ✉️
 
-<img src="media/linkedin.png" height="64" alt="David Martinez" style=" vertical-align:middle;">            <a href="https://www.linkedin.com/in/david-martinez-9505b5160/"><p style="text-align:center;display:inline-block;">David Martinez</p></a> 
+<a href="https://www.linkedin.com/in/david-martinez-9505b5160/"><img src="media/linkedin.png" height="64" alt="David Martinez" style=" vertical-align:middle;"></a>             <a href="https://www.linkedin.com/in/david-martinez-9505b5160/"><p style="text-align:center;display:inline-block;">David Martinez</p></a> 
 
 <br>
 
