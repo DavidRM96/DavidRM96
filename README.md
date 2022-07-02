@@ -12,4 +12,4 @@ I'm a passionate web3 researcher, I love to learn about web3 development and hav
 <br>
 
 ### Tips 💸
- <img src="media/ethereum.png" height="40" alt="David Martinez" style=" vertical-align:middle;"><img src="media/matic.png" height="40" alt="David Martinez" style="vertical-align:middle;">  <p style="text-align:center;display:inline-block;"><code>0x66C027Dd458d13c7468b16Dd56F5a46C59E7748d</code></p>                                                                         
+<a href=""><img src="media/ethereum.png" height="40" alt="David Martinez" style=" vertical-align:middle;"></a><a href=""><img src="media/matic.png" height="40" alt="David Martinez" style="vertical-align:middle;"></a>  <p style="text-align:center;display:inline-block;"><code>0x66C027Dd458d13c7468b16Dd56F5a46C59E7748d</code></p>                                                                         
