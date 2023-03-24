@@ -1,8 +1,8 @@
 # Hi there 👋🏼
 
-I'm David and I'm from Wilmington, USA ✌️
+I'm David and I'm from Carson, USA ✌️
 
-I'm a passionate web3 researcher, I love to learn about web3 development and have worked on my own web3 <a href="https://www.bodokeclb.com/">project</a>.
+I'm a passionate web3 researcher, I love to learn about web3 development and have worked on my own web3 <a href="https://opensea.io/collection/bodokeclb/">project</a>.
 <br><br>
 
 ### Contact me if you want to work on something cool together ✉️
